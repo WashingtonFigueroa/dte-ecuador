@@ -1,34 +1,34 @@
 <div class="container">
   <div class="title">
-    <h1>¿Qué hacemos?</h1>
-    <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
+    <h1>¿Qué ofrecemos?</h1>
+    <p></p>
   </div>
   <div class="row-fluid">
     <div class="span4">
       <div class="centered service">
         <div class="circle-border zoom-in">
-          <img class="img-circle" src="informativa/images/Service1.png" alt="service 1">
+          <img class="img-circle" src="informativa/images/Services10.png" alt="service 1">
         </div>
-        <h3>Modern Design</h3>
-        <p>We Create Modern And Clean Theme For Your Business Company.</p>
+        <h3>Aplicaciones web a medida</h3>
+        <p>Desarrollamos aplicaciones y sitios web para su empresa.</p>
       </div>
     </div>
     <div class="span4">
       <div class="centered service">
         <div class="circle-border zoom-in">
-          <img class="img-circle" src="informativa/images/Service2.png" alt="service 2" />
+          <img class="img-circle" src="informativa/images/Services2.png" alt="service 2" />
         </div>
-        <h3>Powerfull Theme</h3>
-        <p>We Create Modern And Powerful Theme With Lots Animation And Features</p>
+        <h3>Asesoria en TIC'S</h3>
+        <p>Tutorias con las nuevas tecnologías de la información</p>
       </div>
     </div>
     <div class="span4">
       <div class="centered service">
         <div class="circle-border zoom-in">
-          <img class="img-circle" src="informativa/images/Service3.png" alt="service 3">
+          <img class="img-circle" src="informativa/images/Services3.jpg" alt="service 3">
         </div>
-        <h3>Clean Code</h3>
-        <p>We Create Modern And Powerful Html5 And CSS3 Code Easy For Read And Customize.</p>
+        <h3>Venta de productos</h3>
+        <p>Contamos con un amplio catálogo y con los mejores precios.</p>
       </div>
     </div>
   </div>
