@@ -35,7 +35,6 @@
   <!-- Servicios  -->
   <div class="section primary-section" id="service">
     @include("dteInformativa.servicios")
-
   </div>
   <!-- Portfolio -->
   <div class="section secondary-section " id="portfolio">
@@ -49,7 +48,7 @@
   <div class="section secondary-section">
     <div class="triangle"></div>
     <div class="container centered">
-      <p class="large-text">La elegancia no es la abundancia de la simplicidad. Es la ausencia de complejidad.</p>
+      <p class="large-text">“El destino no es cuestión de casualidad, sino cuestión de elección. No es algo a lo que se deba esperar, sino algo a conseguir”.- Jeremy Kitson.</p>
     </div>
   </div>
   <!-- Clientes -->

@@ -12,6 +12,23 @@
   <h3>Nuestro Equipo</h3>
   <br>
   <div class="row-fluid team">
+    <div class="span3" id="third-person">
+      <div class="thumbnail">
+        <img src="informativa/images/log.png" alt="DTE">
+        <h3>CANAL YOUTUBE DTE</h3>
+        <ul class="social">
+          <li>
+            <a href="#">
+              <span class="icon-twitter-circled"></span>
+            </a>
+          </li>
+        </ul>
+        <div class="mask">
+          <h2>DTE</h2>
+          <p>"Las mejores guias para aprender a programar"</p>
+        </div>
+      </div>
+    </div>
     <div class="span3" id="first-person">
       <div class="thumbnail">
         <img src="informativa/images/Team1.png" alt="FIGO">
@@ -78,23 +95,6 @@
         </div>
       </div>
     </div>
-    <div class="span3" id="third-person">
-      <div class="thumbnail">
-        <img src="informativa/images/prueba.png" alt="DTE">
-        <h3>CANAL YOUTUBE DTE</h3>
-        <ul class="social">
-          <li>
-            <a href="#">
-              <span class="icon-twitter-circled"></span>
-            </a>
-          </li>
-        </ul>
-        <div class="mask">
-          <h2>DTE</h2>
-          <p>"Las mejores guias para aprender a programar"</p>
-        </div>
-      </div>
-    </div>
   </div>
   <br>
   <h3>Habilidades</h3>
@@ -126,7 +126,7 @@
     <div class="span6">
       <div class="highlighted-box center">
         <h1>Servicio de Asesorías</h1>
-        <p>DTE brinda asesoría y orientación académica a los estudiantes a través de un tutor asignado. La asesoría está encaminada a apoyar a los estudiantes en sus trabajos bimestrales, semestrales, fin de año, proyecto de tesis entre otros.</p>
+        <p>"Desarrolladores Tecnológicos Ecuatorianos" brinda asesoría y orientación académica a los estudiantes a través de un tutor asignado. La asesoría está encaminada a apoyar a los estudiantes en sus trabajos bimestrales, semestrales, fin de año, proyecto de tesis entre otros.</p>
         <a href="#contact" class="button">Te Ayudamos</a>
       </div>
     </div>
