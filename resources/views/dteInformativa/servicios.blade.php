@@ -1,7 +1,7 @@
 <div class="container">
   <div class="title">
     <h1>¿Qué ofrecemos?</h1>
-    <p></p>
+    <p>“Se puede conseguir cualquier cosa si uno está dispuesto a ayudar lo suficiente a otros a conseguir lo que ellos quieren” Zig Ziglar</p>
   </div>
   <div class="row-fluid">
     <div class="span4">
