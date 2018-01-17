@@ -1,7 +1,7 @@
 <div class="section secondary-section">
   <div class="container">
     <div class="title">
-      <h1>Contact Us</h1>
+      <h1>Contactanos</h1>
       <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
     </div>
   </div>
@@ -45,10 +45,13 @@
   </div>
   <div class="container">
     <div class="span9 center contact-info">
-      <p>123 Fifth Avenue, 12th,Belgrade,SRB 11000</p>
-      <p class="info-mail">ourstudio@somemail.com</p>
-      <p>+11 234 567 890</p>
-      <p>+11 286 543 850</p>
+      <p>Ibarra Quito / Ecuador</p>
+      <p class="info-mail">
+      liwa.meraki@gmail.com
+      </p>
+      <p>0 96 919 1290</p>
+      <p>0 98 092 4214</p>
+      <p>0 95 997 7530</p>
       <div class="title">
         <h3>We Are Social</h3>
       </div>

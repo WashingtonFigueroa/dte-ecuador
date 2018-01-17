@@ -64,9 +64,9 @@
     @include("dteInformativa.precios")
   </div>
   <!-- Newsletter section start -->
-  <div class="section third-section">
+<!--   <div class="section third-section">
     @include("dteInformativa.noticias")
-  </div>
+  </div> -->
   <!-- Contactos -->
   <div id="contact" class="contact">
     @include("dteInformativa.contactos")

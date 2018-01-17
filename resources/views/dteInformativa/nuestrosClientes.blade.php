@@ -2,7 +2,7 @@
   <div class="sub-section">
     <div class="title clearfix">
       <div class="pull-left">
-        <h3>Nuestros Clientes</h3>
+        <h3 style="color: #FFFFFF">Nuestros Clientes</h3>
       </div>
       <ul class="client-nav pull-right">
         <li id="client-prev"></li>
@@ -10,6 +10,11 @@
       </ul>
     </div>
     <ul class="row client-slider" id="clint-slider">
+      <li>
+        <a href="#">
+          <img src="informativa/images/clients/carvajal.png" alt="BIENES RAICES CARVAJAL">
+        </a>
+      </li>
       <li>
         <a href="#">
           <img src="informativa/images/clients/unape.png" alt="UNAPE">
@@ -23,11 +28,6 @@
       <li>
         <a href="#">
           <img src="informativa/images/clients/leohardsoft.png" alt="LEO HARDSOFT">
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <img src="informativa/images/clients/carvajal.png" alt="BIENES RAICES CARVAJAL">
         </a>
       </li>
       <li>

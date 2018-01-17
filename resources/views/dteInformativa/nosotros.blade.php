@@ -13,24 +13,24 @@
   <br>
   <div class="row-fluid team">
     <div class="span3" id="third-person">
-      <div class="thumbnail">
+      <div class="thumbnail" style="background-color: #FFFFFF">
         <img src="informativa/images/log.png" alt="DTE">
         <h3>CANAL YOUTUBE DTE</h3>
         <ul class="social">
-          <li>
-            <a href="#">
-              <span class="icon-twitter-circled"></span>
+          <li>            
+            <a href="https://www.youtube.com/channel/UCBrXpOZHzY96pJ7OOiSOpxg?view_as=subscriber" target="_blanck">
+              <span class="icon-gplus-circled"></span>
             </a>
           </li>
         </ul>
-        <div class="mask">
+        <div class="mask" style="color: #FFFFFF">
           <h2>DTE</h2>
-          <p>"Las mejores guias para aprender a programar"</p>
+          <p style="color: #FFFFFF">"Las mejores guias para aprender a programar"</p>
         </div>
       </div>
     </div>
     <div class="span3" id="first-person">
-      <div class="thumbnail">
+      <div class="thumbnail" style="background-color: #FFFFFF">
         <img src="informativa/images/Team1.png" alt="FIGO">
         <h3>Washington Figueroa</h3>
         <ul class="social">
@@ -40,19 +40,19 @@
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://twitter.com/Washington_Figo" target="_blanck">
               <span class="icon-twitter-circled"></span>
             </a>
           </li>
         </ul>
-        <div class="mask">
+        <div class="mask" style="color: #FFFFFF">
           <h2>Desarrollador</h2>
-          <p>"Controlar la complejidad es la esencia de la programación"</p>
+          <p style="color: #FFFFFF">"Controlar la complejidad es la esencia de la programación"</p>
         </div>
       </div>
     </div>
     <div class="span3" id="second-person">
-      <div class="thumbnail">
+      <div class="thumbnail" style="background-color: #FFFFFF">
         <img src="informativa/images/Team2.png" alt="CARLITOS">
         <h3>Carlos Carvajal</h3>
         <ul class="social">
@@ -67,14 +67,14 @@
             </a>
           </li>
         </ul>
-        <div class="mask">
+        <div class="mask" style="color: #FFFFFF">
           <h2>Desarrollador</h2>
-          <p>"No se trata bits, bytes y protocolos, sino de beneficios, pérdidas y márgenes"</p>
+          <p style="color: #FFFFFF">"No se trata bits, bytes y protocolos, sino de beneficios, pérdidas y márgenes"</p>
         </div>
       </div>
     </div>
     <div class="span3" id="third-person">
-      <div class="thumbnail">
+      <div class="thumbnail" style="background-color: #FFFFFF">
         <img src="informativa/images/Team3.png" alt="CRISS">
         <h3>Cristian Tayan</h3>
         <ul class="social">
@@ -89,9 +89,9 @@
             </a>
           </li>
         </ul>
-        <div class="mask">
+        <div class="mask" style="color: #FFFFFF">
           <h2>Desarrollador</h2>
-          <p>"La verdadera innovación a menudo viene de las pequeñas startups que son capaces de crear mercados pero carecen de peso para poseerlos"</p>
+          <p style="color: #FFFFFF">"La verdadera innovación a menudo viene de las pequeñas startups que son capaces de crear mercados pero carecen de peso para poseerlos"</p>
         </div>
       </div>
     </div>
