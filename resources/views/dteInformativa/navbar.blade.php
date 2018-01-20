@@ -15,8 +15,8 @@
         <!-- <li><a href="#clients">Clientes</a></li> -->
         <li><a href="#price">Precios</a></li>
         <li><a href="#contact">Contactos</a></li>
-        <li><a href="{{ route('login') }}">Login</a></li>
-        <li><a href="{{ route('register') }}">Registro</a></li>
+<!--         <li><a href="{{ route('login') }}">Login</a></li>
+        <li><a href="{{ route('register') }}">Registro</a></li> -->
       </ul>
     </div>
   </div>

@@ -3,7 +3,7 @@
 
 <head>
   <meta charset=utf-8>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>DTE</title>
   <!-- Load Roboto font -->
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -20,7 +20,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="informativa/images/ico/apple-touch-icon-114.png">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="informativa/images/apple-touch-icon-72.png">
   <link rel="apple-touch-icon-precomposed" href="informativa/images/ico/apple-touch-icon-57.png">
-  <link rel="shortcut icon" href="informativa/images/ico/favicon.ico">
+  <link rel="shortcut icon" href="informativa/images/ico/icodte.ico">
 </head>
 
 <body>
@@ -91,7 +91,12 @@
   <script type="text/javascript" src="informativa/js/jquery.cslider.js"></script>
   <script type="text/javascript" src="informativa/js/jquery.placeholder.js"></script>
   <script type="text/javascript" src="informativa/js/jquery.inview.js"></script>
-  <script async="" defer="" type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&callback=initializeMap"></script>
   <script type="text/javascript" src="informativa/js/app.js"></script>
+  <script src="https://mdbootstrap.com/previews/docs/latest/js/mdb.min.js"></script>
+  <script src="https://mdbootstrap.com/previews/docs/latest/js/jarallax.js"></script>
+  <script src="https://mdbootstrap.com/previews/docs/latest/js/jarallax-video.js"></script>
+  <script>
+      new WOW().init();
+  </script> 
 </body>
 </html>
