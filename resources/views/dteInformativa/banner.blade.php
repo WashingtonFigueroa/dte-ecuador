@@ -1,6 +1,6 @@
 <div id="da-slider" class="da-slider">
   <div class="triangle"></div>
-  <div class="mask" class="view hm-white-light jarallax" data-jarallax='{"speed": 0.2}' data-jarallax-video="https://www.youtube.com/watch?v=syBR4xiikcQ"></div>
+  <div class="mask" class="view hm-white-light jarallax" data-jarallax='{"speed": 0.2}' data-jarallax-video="https://www.youtube.com/watch?v=WDd-tahF6oQ"></div>
   <div class="container">
     <div class="da-slide">
       <h2 style="color: #FFFFFF" class="fittext2">Bienvenidos DTE</h2>
